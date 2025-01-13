@@ -1,3 +1,9 @@
+//SMART HOME AUTOMATION SYSTEM FOR LIGHT & TEMPERATURE CONTROL
+
+
+
+
+
 #include<lpc21xx.h>
 #include "lcd_fun.c"
 #include "uart.h"
